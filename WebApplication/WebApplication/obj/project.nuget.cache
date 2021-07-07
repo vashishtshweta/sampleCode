@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CKKkN0bZS8jiPGQUBQkMsKLV5EuyPUq1sCAEGGWJdMzFSiRVXsU8yzbM+GEBy+m1yBGx73FjEmoDmK8RNIjaFQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\WebApplication\\WebApplication\\WebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shaveta.vashisht\\.nuget\\packages\\jetbrains.annotations\\2021.1.0\\jetbrains.annotations.2021.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
